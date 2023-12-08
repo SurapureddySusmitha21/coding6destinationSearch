@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.destination-item {
+  background-color: #ffffff;
+  list-style-type: none;
+  width: 235px;
+  margin-left: 16px;
+  margin-right: 17px;
+  margin-bottom: 35px;
+}
+.destination-image {
+  width: 17vw;
+  height: 20vh;
+}
+.name {
+  color: #252627;
+  font-size: 19px;
+  font-family: 'Roboto';
+}
